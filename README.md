@@ -1,3 +1,14 @@
+### Version 1 – Baseline Model
+- Single and two-feature linear regression
+- No feature engineering
+- Higher RMSE
+
+### Version 2 – Improved Model
+- Feature engineering (interaction & squared terms)
+- Feature scaling (standardization)
+- Learning rate tuning
+- Significantly reduced RMSE
+
 # Food Delivery Time Prediction
 
 This project trains a linear regression model to predict food delivery time based on
